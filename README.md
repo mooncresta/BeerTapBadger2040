@@ -9,8 +9,12 @@ Create a new "images" directory via Thonny, and upload the .bin files there.
 b1 has LHS images
 b1 has RHS images
 e.g   %Run convert.py --binary images/b1/Jupiler.png
+
+
 Button A selects LHS 
+
 Button C selects RHS
+
 Up/Down change logos
 
 Very Hacky !
